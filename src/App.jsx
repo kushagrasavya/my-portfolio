@@ -172,7 +172,7 @@ const Hero = () => {
                 transition={{ duration: 1, delay: 0.5, type: 'spring' }}
             >
                 <img 
-                    src="profile_pic.jpg" 
+                    src="/profile_pic.jpg" 
                     alt="Kushagra Choudhary" 
                     className="rounded-full object-cover w-full h-full border-8 border-black"
                 />
@@ -328,21 +328,21 @@ const About = () => {
 
 const blogPosts = [
     {
-        image: 'img1.png',
+        image: '/img1.png',
         category: 'Content Ideation',
         title: 'Promotion for Ignatius SNU',
         excerpt: 'Developing a creative content plan from the ground up to boost visibility and drive audience engagement for Ignatius SNU.',
         link: 'https://www.instagram.com/reel/DGHfLOyMeGj/?utm_source=ig_web_copy_link&igsh=MWc4MWFvMnl2YzhrbQ=='
     },
     {
-        image: 'img2.png',
+        image: '/img2.png',
         category: 'Story Telling',
         title: 'The Story Only I Could Tell',
         excerpt: 'This project showcases how the best ideas come from personal experience, detailing the creative process of turning a childhood memory into a compelling digital story.',
         link: 'https://www.instagram.com/reel/DK1QEaUMYOo/?utm_source=ig_web_copy_link&igsh=cTVlZDNxcGZuZWVl'
     },
     {
-        image: 'img3.png',
+        image: '/img3.png',
         category: 'Cybersecurity',
         title: 'Internship at Employbility.life',
         excerpt: 'An overview of my hands-on experience as an Experiential Learner at Employability.life. This project highlights my technical internship in security testing. I applied analytical skills to test APIs with Kali Linux and Postman, providing a strong foundation in technical problem-solving that complements my creative work.',

@@ -88,7 +88,7 @@ const Navbar = () => {
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                 <div className="flex items-center justify-between h-20">
                     <div className="flex-shrink-0">
-                        <a href="#" className="text-white font-bold text-xl tracking-wider">KUSHAGRA CHOUDHARY</a>
+                        <a href="#" className="text-white font-bold text-xl tracking-wider">KUSHAGRA SAVYA CHOUDHARY</a>
                     </div>
                     <div className="hidden md:block">
                         <div className="ml-10 flex items-baseline space-x-4">
@@ -173,7 +173,7 @@ const Hero = () => {
             >
                 <img 
                     src="/profile_pic.jpg" 
-                    alt="Kushagra Choudhary" 
+                    alt="Kushagra Savya Choudhary" 
                     className="rounded-full object-cover w-full h-full border-8 border-black"
                 />
             </motion.div>
@@ -345,7 +345,7 @@ const blogPosts = [
         image: '/img3.png',
         category: 'Cybersecurity',
         title: 'Internship at Employbility.life',
-        excerpt: 'An overview of my hands-on experience as an Experiential Learner at Employability.life. This project highlights my technical internship in security testing. I applied analytical skills to test APIs with Kali Linux and Postman, providing a strong foundation in technical problem-solving that complements my creative work.',
+        excerpt: 'As a Security Testing Intern at Employability.life, I performed hands-on API testing using Kali Linux and Postman. This experience sharpened my analytical skills, building a technical problem-solving foundation that directly complements my creative work.',
         link: 'https://www.linkedin.com/posts/kushagra-savya-choudhary-2b2152255_cybersecurity-apisecurity-securitytesting-activity-7310875779825876992-Pc-o?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD7ZACYBS_bGYNeix0e5PuUCE-P2O3bNPro'
     }
 ];
@@ -428,7 +428,7 @@ export default function App() {
         {/* Meta tags with the 'name' attribute */}
         <meta name='title' content='Kushagra Savya Choudhary - Social Media Marketer' />
         <meta name="description" content="Explore the portfolio of Kushagra Savya Choudhary, a digital strategist and content creator who blends data-driven marketing with compelling video to build and engage online communities." />
-        <meta name="keywords" content="Kushagra Savya Choudhary, Portfolio, Social Media Marketer, Content Creator, Digital Strategist, Video Production, Audience Growth, Community Building, Campaign Management, Digital Marketing, Kushagra Choudhary " />
+        <meta name="keywords" content="Kushagra Savya Choudhary, Portfolio, Social Media Marketer, Content Creator, Digital Strategist, Video Production, Audience Growth, Community Building, Campaign Management, Digital Marketing, Kushagra Savya Choudhary " />
 
         {/* Open Graph (og) tags */}
         <meta property="og:title" content="Kushagra Savya Choudhary - Social Media Marketer" />
